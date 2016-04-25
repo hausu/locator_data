@@ -53,5 +53,313 @@
       "lat": 51.4039,
       "lon": 0.0198
     }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Camden",
+    "slug": "camden",
+    "area": 8.40,
+    "location": {
+      "lat": 51.5290,
+      "lon": -0.1255
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Croydon",
+    "slug": "croydon",
+    "area": 33.41,
+    "location": {
+      "lat": 51.3714,
+      "lon": -0.0977
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Ealing",
+    "slug": "ealing",
+    "area": 21.44,
+    "location": {
+      "lat": 51.5130,
+      "lon": 0.3089
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Enfield",
+    "slug": "enfield",
+    "area": 31.74,
+    "location": {
+      "lat": 51.6538,
+      "lon": 0.0799
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Greenwich",
+    "slug": "greenwich",
+    "area": 18.28,
+    "location": {
+      "lat": 51.4892,
+      "lon": 0.0648
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Hackney",
+    "slug": "hackney",
+    "area": 7.36,
+    "location": {
+      "lat": 51.5450,
+      "lon": 0.0553
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Hammersmith and Fulham",
+    "slug": "hammersmith-and-fulham",
+    "area": 6.33,
+    "location": {
+      "lat": 51.4927,
+      "lon": 0.2339
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Haringey",
+    "slug": "haringey",
+    "area": 11.42,
+    "location": {
+      "lat": 51.6000,
+      "lon": 0.1119
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Harrpw",
+    "slug": "harrow",
+    "area": 19.49,
+    "location": {
+      "lat": 51.5898,
+      "lon": 0.3346
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Havering",
+    "slug": "havering",
+    "area": 43.35,
+    "location": {
+      "lat": 51.5812,
+      "lon": 0.1837
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Hilingdon",
+    "slug": "hilingdon",
+    "area": 44.67,
+    "location": {
+      "lat": 51.5441,
+      "lon": 0.4760
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Hounslow",
+    "slug": "hounslow",
+    "area": 5.74,
+    "location": {
+      "lat": 51.5416,
+      "lon": 0.1022
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Kensington and Chelsea",
+    "slug": "kesington-and-chelsea",
+    "area": 4.68,
+    "location": {
+      "lat": 51.5020,
+      "lon": 0.1947
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Kingston upon Thames",
+    "slug": "kingston-upon-thames",
+    "area": 14.38,
+    "location": {
+      "lat": 51.4085,
+      "lon": 0.3064
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Lambeth",
+    "slug": "lambeth",
+    "area": 10.36,
+    "location": {
+      "lat": 51.4607,
+      "lon": -0.1163
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Lewisham",
+    "slug": "lewisham",
+    "area": 13.57,
+    "location": {
+      "lat": 51.4452,
+      "lon": 0.0209
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Merton",
+    "slug": "merton",
+    "area": 14.52,
+    "location": {
+      "lat": 51.4014,
+      "lon": 0.1958
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Newham",
+    "slug": "newham",
+    "area": 13.98,
+    "location": {
+      "lat": 51.5077,
+      "lon": 0.0469
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Redbridge",
+    "slug": "redbridge",
+    "area": 21.78,
+    "location": {
+      "lat": 51.5590,
+      "lon": 0.0741
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Richmond upon Thames",
+    "slug": "richmon-upon-thames",
+    "area": 22.17,
+    "location": {
+      "lat": 51.4479,
+      "lon": 0.3260
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Southwark",
+    "slug": "southwark",
+    "area": 16.93,
+    "location": {
+      "lat": 51.3618,
+      "lon": 0.1945
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Sutton",
+    "slug": "sutton",
+    "area": 16.93,
+    "location": {
+      "lat": 51.3618,
+      "lon": -0.1945
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Tower Hamlets",
+    "slug": "tower-hamlets",
+    "area": 7.63,
+    "location": {
+      "lat": 51.5099,
+      "lon": 0.0059
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Waltham Forest",
+    "slug": "waltham-forest",
+    "area": 14.99,
+    "location": {
+      "lat": 51.5908,
+      "lon": 0.0134
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Wandsworth",
+    "slug": "wandsworth",
+    "area": 13.23,
+    "location": {
+      "lat": 51.4567,
+      "lon": 0.1910
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Westminster",
+    "slug": "westminster",
+    "area": 8.29,
+    "location": {
+      "lat": 51.4973,
+      "lon": 0.1372
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "White City",
+    "slug": "white-city",
+    "area": 8.29,
+    "location": {
+      "lat": 51.5148498,
+      "lon": -0.2526562
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "City of London",
+    "slug": "city-of-london",
+    "area": 1.12,
+    "location": {
+      "lat": 51.5155,
+      "lon": 0.0922
+    }
   }
 ]
