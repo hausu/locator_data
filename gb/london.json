@@ -1,0 +1,57 @@
+[
+  {
+  	"city": "London",
+  	"country": "GB",
+  	"name": "Barking and Dagenham",
+  	"slug": "barking-and-dagenham",
+  	"area": 13.93,
+  	"location": {
+  		"lat": 51.5607,
+  		"lon": 0.1557
+  	}
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Barnet",
+    "slug": "barnet",
+    "area": 33.49,
+    "location": {
+      "lat": 51.6252,
+      "lon": 0.1517
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Bexley",
+    "slug": "bexley",
+    "area": 23.38,
+    "location": {
+      "lat": 51.4549,
+      "lon": 0.1505
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Brent",
+    "slug": "brent",
+    "area": 16.70,
+    "location": {
+      "lat": 51.5588,
+      "lon": 0.2817
+    }
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "name": "Bromley",
+    "slug": "broley",
+    "area": 57.97,
+    "location": {
+      "lat": 51.4039,
+      "lon": 0.0198
+    }
+  }
+]
